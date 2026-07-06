@@ -1,1 +1,9 @@
-
+{
+  "official_mods": [
+    {"name": "Pack Armes Néon", "raw_script_url": "https://.../weapon.py"},
+    {"name": "Physique Liquide Pro", "raw_script_url": "https://.../liquid.py"}
+  ],
+  "external_repositories": [
+    "https://raw.githubusercontent.com/PseudoDUnAbonne/son-depot/main/mods.json"
+  ]
+}
