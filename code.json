@@ -1,0 +1,16 @@
+{
+  "codes": [
+    {
+      "code": "UNLOCK_IMPORT",
+      "reward_type": "permission",
+      "permission": "local_import",
+      "description": "Permet d'importer des mods locaux."
+    },
+    {
+      "code": "UNLOCK_EXPORT",
+      "reward_type": "permission",
+      "permission": "local_export",
+      "description": "Permet d'exporter des mods."
+    }
+  ]
+}
